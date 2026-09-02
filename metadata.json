@@ -1,0 +1,6 @@
+{
+  "name": "Shalome TheChosen MUA Rate Master",
+  "description": "Enterprise bridal makeup artist ERP, diagnostics, multi-event ceremony quote builder, competitor sync, and rate contract invoicing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
